@@ -1,0 +1,14 @@
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\bin\Debug\netstandard2.0\XamarinTicTacToe.deps.json
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\bin\Debug\netstandard2.0\XamarinTicTacToe.dll
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\bin\Debug\netstandard2.0\XamarinTicTacToe.pdb
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.csproj.AssemblyReference.cache
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\PlayBoardPage.xaml.g.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.AssemblyInfoInputs.cache
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.AssemblyInfo.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.dll
+C:\Users\Nabeel-Ahmad\RiderProjects\XamarinTicTacToe\XamarinTicTacToe\XamarinTicTacToe\obj\Debug\netstandard2.0\XamarinTicTacToe.pdb

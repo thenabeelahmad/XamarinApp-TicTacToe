@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTicTacToe.PlayBoardPage"
+             BackgroundColor="#3498db">
+    
+    <Grid x:Name="gameGrid" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Create buttons for each cell in the Tic Tac Toe grid -->
+        <Button x:Name="cell00" Grid.Row="0" Grid.Column="0" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+        <Button x:Name="cell01" Grid.Row="0" Grid.Column="1" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+        <Button x:Name="cell02" Grid.Row="0" Grid.Column="2" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+
+        <Button x:Name="cell10" Grid.Row="1" Grid.Column="0" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+        <Button x:Name="cell11" Grid.Row="1" Grid.Column="1" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+        <Button x:Name="cell12" Grid.Row="1" Grid.Column="2" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+
+        <Button x:Name="cell20" Grid.Row="2" Grid.Column="0" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+        <Button x:Name="cell21" Grid.Row="2" Grid.Column="1" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+        <Button x:Name="cell22" Grid.Row="2" Grid.Column="2" Clicked="OnCellClick" FontSize="30" BackgroundColor="#2980b9"
+                BorderRadius="10" WidthRequest="110" HeightRequest="110" Margin="5"/>
+    </Grid>
+</ContentPage>
